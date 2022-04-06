@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzW4N94+Ef0ObvsDwwr9lvgMU9azV4QLCQubaBDM/6PgLv+6DK9Mp49qr9/97rHnRbSkZx4Qatfwm3Uuz2uhiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nevor\\source\\repos\\NewEgg Web Scraper\\NewEgg Web Scraper\\NewEgg Web Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nevor\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
